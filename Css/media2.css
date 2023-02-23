@@ -1,0 +1,20 @@
+@media screen and (max-width: 412px){
+    .container {
+        height: 145vh;
+        
+      }
+      .heading h1{
+        font-size: 3vh;
+      }
+      .heading {
+        height: 20vh;
+      }
+      .box p {
+        margin: 20px 30px;
+        font-size: 2vh;
+        ;
+      }
+      .container {
+        height: 107vh;
+      }
+}

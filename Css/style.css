@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    margin: 0;padding: 0;
+}
+
+.container{
+    height: 100vh;
+    background-color: #333053;
+    text-align: center;
+}
+.heading{
+    height: 40vh;
+}
+.heading h1{
+    padding: 70px;
+    font-size: 15vh;
+    color: rgb(17, 236, 108);
+    font-family: 'Tilt Prism', cursive;
+}
+/* ul li{
+     display: inline-block;
+     margin: 0px 59px;
+     font-size: 5vh;
+     font-family: 'Pacifico', cursive;
+     color: aqua;
+} */
+.footer h2 img{
+    width: 40px;
+    height: 20px;
+}
+.boxes{
+    margin: 50px;
+}
+
+.box{
+    
+    
+    display: inline-block;
+    margin: 0px 20px;
+    border-radius: 15px;
+}
+.box img{
+    width: 250px;height: 250px;
+}
+.box p{
+    margin: 0px 59px;
+    font-size: 5vh;
+    font-family: 'Pacifico', cursive;
+    color: aqua;
+}
